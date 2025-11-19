@@ -1,0 +1,1082 @@
+[
+  {
+    "name": "ARBERA",
+    "category": "DeFi, Infrastructure",
+    "isNative": true,
+    "shortDescription": "Arbitrage on Berachain",
+    "logo": "https://pbs.twimg.com/profile_images/1828324170725310464/Ea8LKPDb_400x400.png",
+    "banner": "https://pbs.twimg.com/profile_banners/1763342116674228224/1725539680/1500x500",
+    "twitter": "https://x.com/ArbitrageBera",
+    "website": "https://www.arbera.io/"
+  },
+  {
+    "name": "BABYBERA",
+    "category": "GameFi, NFT",
+    "isNative": true,
+    "shortDescription": "NFT / Yield farming / Memecoin/ Music",
+    "logo": "https://pbs.twimg.com/profile_images/1983155102299926528/z47GjCPu_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1577755756518117377/1755101006/1080x360",
+    "twitter": "https://x.com/babyberafinance",
+    "website": "https://babybera.finance/discord"
+  },
+  {
+    "name": "BAKELAND",
+    "category": "GameFi",
+    "isNative": true,
+    "shortDescription": "Turning crypto into a P2E metaRPG",
+    "logo": "https://pbs.twimg.com/profile_images/1978183505562447872/25ytPSFM_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1811360523138502656/1760470677/1080x360",
+    "twitter": "https://x.com/bakelandxyz",
+    "website": "https://bakeland.xyz/"
+  },
+  {
+    "name": "BANANA GUN",
+    "category": "Infrastructure, DeFi",
+    "isNative": false,
+    "shortDescription": "Trading bot",
+    "logo": "https://pbs.twimg.com/profile_images/1778120223079419904/1W5AaQO5_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1669901087531302912/1712830424/1500x500",
+    "twitter": "https://x.com/bananagun",
+    "website": "https://bananagun.io/"
+  },
+  {
+    "name": "BASINO",
+    "category": "BetFi",
+    "isNative": true,
+    "shortDescription": "Fun and virality.",
+    "logo": "https://pbs.twimg.com/profile_images/1878823672460222464/LNwbuFXT_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1877368245206106112/1736781447/1500x500",
+    "twitter": "https://x.com/basinowtf",
+    "website": "https://basino.wtf/"
+  },
+  {
+    "name": "BEAR ARENA",
+    "category": "GameFi",
+    "isNative": true,
+    "shortDescription": "World's first fully on-chain RPG game. Building on berachain",
+    "logo": "https://pbs.twimg.com/profile_images/1854988290824290304/VlpJX0F2_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1596462590963732480/1731098633/1500x500",
+    "twitter": "https://x.com/beararenagame",
+    "website": "https://beararena.guildofchains.com/"
+  },
+  {
+    "name": "BEARN",
+    "category": "DeFi",
+    "isNative": true,
+    "shortDescription": "We are here to fuck shit up. BGT liquid locker and autocompounder.",
+    "logo": "https://pbs.twimg.com/profile_images/1911818948573609984/OTblZO7w_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1881369250096435200/1737389731/1080x360",
+    "twitter": "https://x.com/Bearnsucks",
+    "website": "https://bearn.sucks/"
+  },
+  {
+    "name": "BEBOP",
+    "category": "DeFi",
+    "isNative": false,
+    "shortDescription": "Seamless and efficient crypto trading for everyone",
+    "logo": "https://pbs.twimg.com/profile_images/1985276316720009216/gTbCUTV3_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1523778275826442242/1726656448/1080x360",
+    "twitter": "https://x.com/bebop_dex",
+    "website": "https://bebop.xyz/"
+  },
+  {
+    "name": "BEDROCK",
+    "category": "LRT",
+    "isNative": false,
+    "shortDescription": "The world's first multi-asset liquid restaking protocol",
+    "logo": "https://pbs.twimg.com/profile_images/1874748314287255552/vfl-Cjat_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1656587853781172225/1721116669/1500x500",
+    "twitter": "https://x.com/Bedrock_DeFi",
+    "website": "https://www.bedrock.technology/"
+  },
+  {
+    "name": "BERA BADDIES",
+    "category": "Community",
+    "isNative": true,
+    "shortDescription": "henlo, and furthermore, ooga booga",
+    "logo": "https://pbs.twimg.com/profile_images/1762481503550808064/_J0DuQLr_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1755325754986872832/1715818163/1500x500",
+    "twitter": "https://x.com/berabaddies",
+    "website": "https://www.berabaddie.xyz/"
+  },
+  {
+    "name": "BERA.TV",
+    "category": "AI, SocialFi",
+    "isNative": true,
+    "shortDescription": "TV",
+    "logo": "https://pbs.twimg.com/profile_images/1794248953019482112/-KkkczZJ_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1771749450966261760/1717005263/1500x500",
+    "twitter": "https://twitter.com/beradottv",
+    "website": "https://bera.tv/"
+  },
+  {
+    "name": "BERABORROW",
+    "category": "DeFi, Lending",
+    "isNative": true,
+    "shortDescription": "Interest-free loans",
+    "logo": "https://pbs.twimg.com/profile_images/1816388896344711169/id0ciyc2_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1749741017484378112/1706014146/1500x500",
+    "twitter": "https://twitter.com/beraborrow",
+    "website": "https://beraborrow.com/#"
+  },
+  {
+    "name": "BERACANA",
+    "category": "DeFi, Lending",
+    "isNative": true,
+    "shortDescription": "Lending protocol",
+    "logo": "https://pbs.twimg.com/profile_images/1796166135597191168/SBWCAyDr_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1795016498807013376/1738089756/1080x360",
+    "twitter": "https://x.com/beracana",
+    "website": "https://beracana.com/"
+  },
+  {
+    "name": "BERACHAINDEVS",
+    "category": "Community",
+    "isNative": true,
+    "shortDescription": "Developers on berachain",
+    "logo": "https://pbs.twimg.com/profile_images/1895547513215803392/uzW_sBzf_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1792324801198960640/1717540696/1500x500",
+    "twitter": "https://x.com/berachaindevs",
+    "website": ""
+  },
+  {
+    "name": "BERADROME",
+    "category": "Marketplace, DeFi",
+    "isNative": true,
+    "shortDescription": "ve(3,3) restaking and liquidity marketplace on Berachain",
+    "logo": "https://pbs.twimg.com/profile_images/1880768192953638912/TfKvUOcn_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1572209849949356040/1668737254/1500x500",
+    "twitter": "https://twitter.com/beradrome",
+    "website": "https://www.beradrome.com/"
+  },
+  {
+    "name": "BERAHOME",
+    "category": "Community",
+    "isNative": true,
+    "shortDescription": "Chinese Community HUB",
+    "logo": "https://pbs.twimg.com/profile_images/1895704938669576192/BuTgENWB_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1750065214798938112/1716221523/1500x500",
+    "twitter": "https://twitter.com/0xBeraHome",
+    "website": ""
+  },
+  {
+    "name": "BERALAND",
+    "category": "Community, Infrastructure",
+    "isNative": true,
+    "shortDescription": "Validator & Community hub for all things bera",
+    "logo": "https://pbs.twimg.com/profile_images/1944720338606055424/Y4R9bzEN_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1570074517518548992/1735558527/1500x500",
+    "twitter": "https://twitter.com/Bera_Land",
+    "website": ""
+  },
+  {
+    "name": "BERAMONIUM CHRONICLES",
+    "category": "GameFi, NFT",
+    "isNative": true,
+    "shortDescription": "NFT RPG Game",
+    "logo": "https://pbs.twimg.com/profile_images/1684572625312583680/wbbp2PRh_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1577718327677444097/1677174094/1500x500",
+    "twitter": "https://twitter.com/Beramonium",
+    "website": "https://www.beramonium.io/"
+  },
+  {
+    "name": "BERANAMES",
+    "category": "Nameservice",
+    "isNative": true,
+    "shortDescription": "Official Name Service of Berachain",
+    "logo": "https://pbs.twimg.com/profile_images/1978107267384770560/qo0anbK0_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1535107484410839041/1760452507/1080x360",
+    "twitter": "https://twitter.com/Beranames",
+    "website": "https://www.beranames.com/"
+  },
+  {
+    "name": "BERAPAW",
+    "category": "DeFi, Infrastructure, LST",
+    "isNative": true,
+    "shortDescription": "Proof of Liquidity made easy",
+    "logo": "https://pbs.twimg.com/profile_images/1809280185797099520/Hb6_bTEL_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1793727751721017344/1720203703/1500x500",
+    "twitter": "https://x.com/0xBeraPaw",
+    "website": "https://berapaw.com/"
+  },
+  {
+    "name": "BERATODDS",
+    "category": "NFT",
+    "isNative": true,
+    "shortDescription": "The best WORST NFT project in the Berachain ecosystem",
+    "logo": "https://pbs.twimg.com/profile_images/1788224351709405184/HofyrZt-_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1763585286465101825/1709306690/1500x500",
+    "twitter": "https://x.com/beratodds",
+    "website": ""
+  },
+  {
+    "name": "BERATONE",
+    "category": "GameFi, NFT, SocialFi",
+    "isNative": true,
+    "shortDescription": "Online multiplayer farming/fishing/crafting/rhythm game",
+    "logo": "https://pbs.twimg.com/profile_images/1795817716407832576/2xJuj6_p_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1516847568885534729/1716991283/1500x500",
+    "twitter": "https://x.com/BeratoneGame",
+    "website": "https://www.beratone.game/en-US"
+  },
+  {
+    "name": "BLOCK CHAIN",
+    "category": "Infrastructure, DeFi, L2",
+    "isNative": true,
+    "shortDescription": "L2 coming to berachain",
+    "logo": "https://pbs.twimg.com/profile_images/1887938839517306880/x0McUG_I_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1792265319798513664/1738954671/1500x500",
+    "twitter": "https://x.com/BlockChain_lol",
+    "website": "https://block-chain.lol/"
+  },
+  {
+    "name": "BM2C",
+    "category": "NFT",
+    "isNative": true,
+    "shortDescription": "berachain mainnet cashgrab collection",
+    "logo": "https://pbs.twimg.com/profile_images/1986577459043835910/YwcbuIfh_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1859942794808221696/1762471951/1080x360",
+    "twitter": "https://x.com/bm2c_",
+    "website": "https://www.bm2c.com/"
+  },
+  {
+    "name": "BONGA BEARA",
+    "category": "Memecoin",
+    "isNative": true,
+    "shortDescription": "The Bong Bears are finally home",
+    "logo": "https://pbs.twimg.com/profile_images/1887654610535415808/0X1vZSt0_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1887653566178897920/1738960640/1080x360",
+    "twitter": "https://x.com/BongaBera",
+    "website": "https://panda.kodiak.finance/trade/0x11909a68ae60903c96c35c059fcf262e54df29d5"
+  },
+  {
+    "name": "BRAHMA",
+    "category": "Infrastructure, AI",
+    "isNative": true,
+    "shortDescription": "The infrastructure for AI agents and users to execute onchain autonomously and securely.",
+    "logo": "https://pbs.twimg.com/profile_images/1732456585652240384/u1-fAC6J_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1420735697556754436/1752843669/1080x360",
+    "twitter": "https://x.com/BrahmaFi",
+    "website": "https://brahma.fi/"
+  },
+  {
+    "name": "BRAINEDBERAS",
+    "category": "Community, NFT",
+    "isNative": true,
+    "shortDescription": "The first community to earn project comes to Berachain",
+    "logo": "https://pbs.twimg.com/profile_images/1872662624879472640/P9cRijRj_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1840626917789057024/1735312513/1500x500",
+    "twitter": "https://x.com/bigbrainedberas",
+    "website": "https://www.brainedberas.com/"
+  },
+  {
+    "name": "BUILD A BERA",
+    "category": "Community",
+    "isNative": true,
+    "shortDescription": "Ecosystem accelerator / incubator",
+    "logo": "https://pbs.twimg.com/profile_images/1747272271637700608/xGWGopkr_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1642246917940817922/1705416430/1500x500",
+    "twitter": "https://x.com/buildabera",
+    "website": "https://buildabera.xyz/"
+  },
+  {
+    "name": "BURVE",
+    "category": "DeFi",
+    "isNative": true,
+    "shortDescription": "The Greatest Show in DeFi",
+    "logo": "https://pbs.twimg.com/profile_images/1900234826906820608/QchET_Tw_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1897839759298641924/1741725307/1080x360",
+    "twitter": "https://x.com/Burve_fi",
+    "website": "https://www.burve.fi/pools"
+  },
+  {
+    "name": "CAVE",
+    "category": "Community",
+    "isNative": true,
+    "shortDescription": "Community",
+    "logo": "https://pbs.twimg.com/profile_images/1826348546817249281/y7Ybw8mK_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1787245834905526273/1742635649/1080x360",
+    "twitter": "https://x.com/cave_off",
+    "website": ""
+  },
+  {
+    "name": "CLEARPOOL",
+    "category": "DeFi, RWA",
+    "isNative": false,
+    "shortDescription": "Pioneering RWA Lending & DeFi Credit",
+    "logo": "https://pbs.twimg.com/profile_images/1945782959291719680/Dlf2zyl9_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1433318597271572488/1752705606/1080x360",
+    "twitter": "https://twitter.com/ClearpoolFin",
+    "website": "https://clearpool.finance/"
+  },
+  {
+    "name": "CLIQUE",
+    "category": "Infrastructure",
+    "isNative": false,
+    "shortDescription": "The Clique Compute Coordination Network",
+    "logo": "https://pbs.twimg.com/profile_images/1768285459686330368/BE_LdQjg_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1477511228322828290/1710427083/1500x500",
+    "twitter": "https://twitter.com/Clique2046",
+    "website": "https://www.clique.tech/"
+  },
+  {
+    "name": "CONCRETE PROTOCOL",
+    "category": "DeFi",
+    "isNative": false,
+    "shortDescription": "DeFi Yield Infrastructure",
+    "logo": "https://pbs.twimg.com/profile_images/1758230390932905984/axpGRz3c_400x400.png",
+    "banner": "https://pbs.twimg.com/profile_banners/1740061029579866112/1707927820/1500x500",
+    "twitter": "https://x.com/ConcreteXYZ",
+    "website": "https://concrete.xyz/"
+  },
+  {
+    "name": "CUBHUB",
+    "category": "NFT",
+    "isNative": true,
+    "shortDescription": "Poke The Bear, Get The Claws",
+    "logo": "https://pbs.twimg.com/profile_images/1838130706146304000/WfRGjGzt_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1654609711600156673/1737668713/1080x360",
+    "twitter": "https://x.com/CubhubX",
+    "website": ""
+  },
+  {
+    "name": "CULTY BERA",
+    "category": "NFT",
+    "isNative": true,
+    "shortDescription": "Liquid-backed adorable misfits",
+    "logo": "https://pbs.twimg.com/profile_images/1842522504205684736/gXY7e3Bk_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1551878773561348096/1738972864/1080x360",
+    "twitter": "https://x.com/cultybera",
+    "website": "https://linktr.ee/Cultybera"
+  },
+  {
+    "name": "CURVANCE",
+    "category": "DeFi, Lending",
+    "isNative": false,
+    "shortDescription": "Modular Protocol for Optimized Liquidity Management",
+    "logo": "https://pbs.twimg.com/profile_images/1943327843619864576/e77RYQUQ_400x400.png",
+    "banner": "https://pbs.twimg.com/profile_banners/1445781144125857796/1752160592/1080x360",
+    "twitter": "https://x.com/Curvance",
+    "website": "https://www.curvance.com/"
+  },
+  {
+    "name": "D2 FINANCE",
+    "category": "DeFi",
+    "isNative": false,
+    "shortDescription": "The leading solution to get upside to Berachain",
+    "logo": "https://pbs.twimg.com/profile_images/1765931135308115968/f_4LkxDr_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1749133553453965312/1746645960/1080x360",
+    "twitter": "https://x.com/D2_Finance",
+    "website": "https://d2.finance/"
+  },
+  {
+    "name": "DAPDAP",
+    "category": "DeFi, Infrastructure",
+    "isNative": false,
+    "shortDescription": "The Next-gen DeFi Consumer App Layer for Ethereum L2s and EVMs",
+    "logo": "https://pbs.twimg.com/profile_images/1912884353165623296/n0x3-7eH_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1698550610445103106/1724451747/1500x500",
+    "twitter": "https://x.com/DapDapMeUp",
+    "website": "https://beratown.dapdap.net/"
+  },
+  {
+    "name": "DEFINED",
+    "category": "Infrastructure",
+    "isNative": false,
+    "shortDescription": "Token API",
+    "logo": "https://pbs.twimg.com/profile_images/1395427369662390272/JiHWxi6M_400x400.png",
+    "banner": "https://pbs.twimg.com/profile_banners/1377784330966069249/1703112482/1500x500",
+    "twitter": "https://twitter.com/definedfi",
+    "website": "https://www.defined.fi/"
+  },
+  {
+    "name": "DEXSCRENNER",
+    "category": "Infrastructure",
+    "isNative": false,
+    "shortDescription": "Realtime DEX analytics",
+    "logo": "https://pbs.twimg.com/profile_images/1462287879565201409/5UYqudVs_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1452480311405727751/1637471942/1500x500",
+    "twitter": "https://x.com/dexscreener",
+    "website": "https://dexscreener.com/berachain"
+  },
+  {
+    "name": "DG BET",
+    "category": "BetFi",
+    "isNative": false,
+    "shortDescription": "SuperApp for Sports Predictions",
+    "logo": "https://pbs.twimg.com/profile_images/1937046432654966784/oygWEk8-_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1790612706543718401/1756113797/1080x360",
+    "twitter": "https://x.com/DGbet_official",
+    "website": "https://sportsbook.dgbet.fun/"
+  },
+  {
+    "name": "DIRAC FINANCE",
+    "category": "Derivatives, DeFi, Options",
+    "isNative": false,
+    "shortDescription": "On-chain Derivatives Strategies.",
+    "logo": "https://pbs.twimg.com/profile_images/1705983711735345152/WXkcWOIB_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1704933881072287744/1728934718/1080x360",
+    "twitter": "https://x.com/DiracFinance",
+    "website": "https://dirac.finance/"
+  },
+  {
+    "name": "DOLOMITE",
+    "category": "DeFi, Lending",
+    "isNative": false,
+    "shortDescription": "A next-gen money market and margin trading protocol",
+    "logo": "https://pbs.twimg.com/profile_images/1034325288644214784/JEUHvtyP_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/990716955236749312/1535437490/1500x500",
+    "twitter": "https://x.com/Dolomite_io",
+    "website": "https://dolomite.io/"
+  },
+  {
+    "name": "EBISU",
+    "category": "DeFi, LST",
+    "isNative": false,
+    "shortDescription": "Highest yielding decentralized stablecoin",
+    "logo": "https://pbs.twimg.com/profile_images/1835980160690278400/tHloFHPN_400x400.png",
+    "banner": "https://pbs.twimg.com/profile_banners/1722205691631599616/1739524492/1080x360",
+    "twitter": "https://twitter.com/ebisu_finance",
+    "website": "https://ebisu.finance/"
+  },
+  {
+    "name": "ENSO",
+    "category": "DeFi, Infrastructure",
+    "isNative": false,
+    "shortDescription": "Your fastest way to build and launch onchain",
+    "logo": "https://pbs.twimg.com/profile_images/1795443155015184384/EeDEvFuQ_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1354016140956200962/1758986579/1080x360",
+    "twitter": "https://x.com/EnsoBuild",
+    "website": "https://www.enso.finance/"
+  },
+  {
+    "name": "ETHENA",
+    "category": "DeFi",
+    "isNative": false,
+    "shortDescription": "Synthetic Dollar with Internet Native Yield",
+    "logo": "https://pbs.twimg.com/profile_images/1963578749170900992/9M1Oxp04_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1637885519374721035/1740380912/1500x500",
+    "twitter": "https://x.com/ethena_labs",
+    "website": "https://ethena.fi/"
+  },
+  {
+    "name": "EULER LABS",
+    "category": "DeFi, Lending",
+    "isNative": false,
+    "shortDescription": "The lending super app",
+    "logo": "https://pbs.twimg.com/profile_images/1947602115557527553/15Jr7cIa_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1295028541139177482/1704901027/1080x360",
+    "twitter": "https://x.com/eulerfinance",
+    "website": "https://app.euler.finance/?network=ethereum"
+  },
+  {
+    "name": "FJORD FOUNDRY",
+    "category": "Launchpad, DeFi",
+    "isNative": false,
+    "shortDescription": "Fair and Transparent Token Sale Events",
+    "logo": "https://pbs.twimg.com/profile_images/1572885646112219136/XpMRWwtg_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1402797688664428545/1728320950/1080x360",
+    "twitter": "https://twitter.com/FjordFoundry",
+    "website": "https://www.fjordfoundry.com/"
+  },
+  {
+    "name": "FURTHERMORE",
+    "category": "Infrastructure",
+    "isNative": true,
+    "shortDescription": "An incentive orderbook",
+    "logo": "https://pbs.twimg.com/profile_images/1903350277341843456/9ZlGDJIy_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1876234482472357888/1742629045/1500x500",
+    "twitter": "https://x.com/furthermore_app",
+    "website": "https://furthermore.app/"
+  },
+  {
+    "name": "GOLDILOCKS",
+    "category": "DeFi, Dex",
+    "isNative": true,
+    "shortDescription": "DeFi DAO (AMM/Yield/NFT-Fi)",
+    "logo": "https://pbs.twimg.com/profile_images/1897374057189834752/1PettXgz_400x400.png",
+    "banner": "https://pbs.twimg.com/profile_banners/1570752772563210241/1718718370/1500x500",
+    "twitter": "https://twitter.com/goldilocksmoney",
+    "website": "https://www.goldilocksdao.io/"
+  },
+  {
+    "name": "HAIKU",
+    "category": "DeFi, AI",
+    "isNative": true,
+    "shortDescription": "DeFAI platform that reinvents trading",
+    "logo": "https://pbs.twimg.com/profile_images/1961481058077077504/4JzRDWYX_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1434043542486327297/1749243207/1080x360",
+    "twitter": "https://x.com/HaikuTrade",
+    "website": "https://haiku.trade/"
+  },
+  {
+    "name": "HOLYHELD",
+    "category": "Payments",
+    "isNative": true,
+    "shortDescription": "The one debit card for all web3",
+    "logo": "https://pbs.twimg.com/profile_images/1769023142050017280/qTCeWYuE_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1134415799962279941/1731976550/1080x360",
+    "twitter": "https://twitter.com/holyheld",
+    "website": "https://holyheld.com/"
+  },
+  {
+    "name": "HONEYPOT FINANCE",
+    "category": "DeFi, Dex, Launchpad",
+    "isNative": true,
+    "shortDescription": "DeFi Hub on Berachain",
+    "logo": "https://pbs.twimg.com/profile_images/1939347908500885504/KtxaehXn_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1447324975355019266/1751211205/1080x360",
+    "twitter": "https://twitter.com/honeypotfinance",
+    "website": "https://honeypotfinance.xyz/"
+  },
+  {
+    "name": "HYACINTH",
+    "category": "Infrastructure",
+    "isNative": false,
+    "shortDescription": "Decentralized peer-to-peer auditing",
+    "logo": "https://pbs.twimg.com/profile_images/1900289234474328064/SgWzOkGZ_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1619814353120952320/1741899234/1500x500",
+    "twitter": "https://twitter.com/HyacinthAudits",
+    "website": "https://www.hyacinthaudits.xyz/"
+  },
+  {
+    "name": "INFRARED",
+    "category": "LST, Infrastructure",
+    "isNative": true,
+    "shortDescription": "Proof of Liquidity in one click",
+    "logo": "https://pbs.twimg.com/profile_images/1945452975264034816/NcOBth5E_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1712121986346893312/1748716410/1080x360",
+    "twitter": "https://twitter.com/InfraredFinance",
+    "website": "https://infrared.finance/"
+  },
+  {
+    "name": "IRYS",
+    "category": "Infrastructure",
+    "isNative": false,
+    "shortDescription": "The only provenance layer",
+    "logo": "https://pbs.twimg.com/profile_images/1879776802563891200/cdpcRzVY_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1456678337557024772/1748582948/1080x360",
+    "twitter": "https://twitter.com/irys_xyz",
+    "website": "https://irys.xyz/"
+  },
+  {
+    "name": "IZUMI FINANCE",
+    "category": "DeFi, Dex, Infrastructure",
+    "isNative": false,
+    "shortDescription": "Multi-chain DeFi protocol providing one-stop DEX-as-a-Service",
+    "logo": "https://pbs.twimg.com/profile_images/1509704804032937991/5qVVZwJj_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1319240572733812737/1661337513/1500x500",
+    "twitter": "https://twitter.com/izumi_Finance",
+    "website": "https://izumi.finance/trade/swap"
+  },
+  {
+    "name": "JIKO",
+    "category": "Wallet",
+    "isNative": true,
+    "shortDescription": "A yield optimizer powering a PvP idle card game maximizing yields via PoL",
+    "logo": "https://pbs.twimg.com/profile_images/1921879870856204288/CxeXIsDk_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1778727189544099840/1747129332/1080x360",
+    "twitter": "https://x.com/Jikofunfinance",
+    "website": "https://app.jiko.finance/"
+  },
+  {
+    "name": "JOY",
+    "category": "GameFi, BetFi",
+    "isNative": true,
+    "shortDescription": "Discover. Play. Earn.",
+    "logo": "https://pbs.twimg.com/profile_images/1797694049832316928/UIlmSnvl_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1685701894616879104/1749208129/1080x360",
+    "twitter": "https://x.com/playonjoy",
+    "website": ""
+  },
+  {
+    "name": "JUMPER",
+    "category": "DeFi",
+    "isNative": false,
+    "shortDescription": "A truly multi-chain exchange",
+    "logo": "https://pbs.twimg.com/profile_images/1984742511982555136/cv9_ryfG_400x400.png",
+    "banner": "https://pbs.twimg.com/profile_banners/1484060475402948610/1676484882/1500x500",
+    "twitter": "https://x.com/JumperExchange",
+    "website": "https://jumper.exchange/"
+  },
+  {
+    "name": "KINGDOMLY",
+    "category": "NFT, Launchpad",
+    "isNative": false,
+    "shortDescription": "NFT Launchpad",
+    "logo": "https://pbs.twimg.com/profile_images/1939597185756139520/zo4Gm59Q_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1496601946446131203/1739478864/1500x500",
+    "twitter": "https://twitter.com/KingdomlyApp",
+    "website": "https://www.kingdomly.app/"
+  },
+  {
+    "name": "KODIAK",
+    "category": "DeFi, Dex",
+    "isNative": true,
+    "shortDescription": "Berachain Native Liquidity Hub",
+    "logo": "https://pbs.twimg.com/profile_images/1669385759923785729/Qh5SqiwT_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1655598345325346818/1686847588/1500x500",
+    "twitter": "https://x.com/KodiakFi",
+    "website": "https://perps.kodiak.finance/"
+  },
+  {
+    "name": "LAIR FINANCE",
+    "category": "DeFi, Farm",
+    "isNative": false,
+    "shortDescription": "Stake on Lair, Boost your yield | Crosschain (Re)staking",
+    "logo": "https://pbs.twimg.com/profile_images/1874760259748995072/ZXBU48GX_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1796436549900603393/1744692345/1500x500",
+    "twitter": "https://x.com/LairFinance",
+    "website": "https://app.lair.fi/"
+  },
+  {
+    "name": "LAYERZERO",
+    "category": "Bridge, Infrastructure",
+    "isNative": false,
+    "shortDescription": "Omnichain interoperability protocol",
+    "logo": "https://pbs.twimg.com/profile_images/1779646801605242880/FrFssPAQ_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1395504028910424065/1713135798/1500x500",
+    "twitter": "https://twitter.com/LayerZero_Labs",
+    "website": "https://layerzero.network/"
+  },
+  {
+    "name": "LIMITLESS",
+    "category": "DeFi",
+    "isNative": false,
+    "shortDescription": "Limitless leverage for every tokens",
+    "logo": "https://pbs.twimg.com/profile_images/1802746596469456897/YBPaItRY_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1599770458844299264/1712991224/1500x500",
+    "twitter": "https://x.com/Limitlessdefi",
+    "website": "https://limitlessfi.xyz/"
+  },
+  {
+    "name": "LOMBARD",
+    "category": "DeFi, LST",
+    "isNative": false,
+    "shortDescription": "Brings Bitcoin to life onchain, for people, protocols, and platforms",
+    "logo": "https://pbs.twimg.com/profile_images/1945866084202004480/sF1I4lkP_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1787773163209732096/1752763400/1500x500",
+    "twitter": "https://x.com/Lombard_Finance",
+    "website": "https://www.lombard.finance/"
+  },
+  {
+    "name": "MADHONEY",
+    "category": "DeFi,NFT,RWA,Derivatives",
+    "isNative": true,
+    "shortDescription": "Where Bera meets mad leverage",
+    "logo": "https://pbs.twimg.com/profile_images/1848740467577425920/Ezj4bGcP_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1848728996831199232/1735762513/1500x500",
+    "twitter": "https://x.com/Madhoneyfi",
+    "website": "https://madhoney.fi/"
+  },
+  {
+    "name": "MAGIC EDEN",
+    "category": "Launchpad, NFT",
+    "isNative": false,
+    "shortDescription": "The best place to discover, buy, and trade your favorite digital collectibles",
+    "logo": "https://pbs.twimg.com/profile_images/1955287636051894272/J-iQLrhV_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1433121559057559555/1750862017/1080x360",
+    "twitter": "https://x.com/MagicEden",
+    "website": "https://magiceden.io/"
+  },
+  {
+    "name": "MIBERA",
+    "category": "NFT",
+    "isNative": true,
+    "shortDescription": "Nft collection",
+    "logo": "https://pbs.twimg.com/profile_images/1915611997791805440/jyC23ON1_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1704626445895536640/1762005239/1080x360",
+    "twitter": "https://twitter.com/miberamaker333",
+    "website": "https://mibera.0xhoneyjar.xyz/"
+  },
+  {
+    "name": "MOVEMENT",
+    "category": "Infrastructure",
+    "isNative": false,
+    "shortDescription": "The first integrated blockchain network, powering the fastest and most secure layer two on ethereum.",
+    "logo": "https://pbs.twimg.com/profile_images/1744477796301496320/z7AIB7_W_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1632504432746192896/1711047198/1500x500",
+    "twitter": "https://twitter.com/movementlabsxyz",
+    "website": "https://movementlabs.xyz/"
+  },
+  {
+    "name": "OOGA BOOGA",
+    "category": "DeFi, Dex, Infrastructure",
+    "isNative": false,
+    "shortDescription": "Aggregator",
+    "logo": "https://pbs.twimg.com/profile_images/1946339928033370113/rd5FlNAl_400x400.png",
+    "banner": "https://pbs.twimg.com/profile_banners/1646282879922569218/1752878576/1080x360",
+    "twitter": "https://twitter.com/0xoogabooga",
+    "website": "https://app.oogabooga.io/"
+  },
+  {
+    "name": "OOBLECK PROTOCOL",
+    "category": "DeFi, Infrastructure",
+    "isNative": true,
+    "shortDescription": "Vote Escrow and Soulbound token liquidity infrastructure",
+    "logo": "https://pbs.twimg.com/profile_images/1976001939964829696/notaJg2U_400x400.png",
+    "banner": "https://pbs.twimg.com/profile_banners/1744241756466528256/1759950550/1080x360",
+    "twitter": "https://x.com/OOBleckprotocol",
+    "website": ""
+  },
+  {
+    "name": "ORIGAMI",
+    "category": "DeFi",
+    "isNative": false,
+    "shortDescription": "The automated constant leverage protocol",
+    "logo": "https://pbs.twimg.com/profile_images/1966472909829935104/QNo7S_6__400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1506810228129644544/1757654603/1080x360",
+    "twitter": "https://x.com/origami_fi",
+    "website": "https://www.origami.finance/"
+  },
+  {
+    "name": "OVERLAY PROTOCOL",
+    "category": "DeFi, Dex, Derivatives",
+    "isNative": false,
+    "shortDescription": "The Exotic Perps DEX. Trade Everything",
+    "logo": "https://pbs.twimg.com/profile_images/1879179761660100608/5tzs6ro2_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1094750703124471810/1742831327/1080x360",
+    "twitter": "https://x.com/OverlayProtocol",
+    "website": "https://overlay.market/#/"
+  },
+  {
+    "name": "OWLTO FINANCE",
+    "category": "Bridge",
+    "isNative": false,
+    "shortDescription": "An intent-centric interoperability protocol, \"Bridge the World with AI Agent\".",
+    "logo": "https://pbs.twimg.com/profile_images/1886736859054923778/Iv098oCX_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/2754844977/1738668097/1500x500",
+    "twitter": "https://x.com/Owlto_Finance",
+    "website": "https://owlto.finance/"
+  },
+  {
+    "name": "PADDLE FINANCE",
+    "category": "DeFi, NFTfi",
+    "isNative": false,
+    "shortDescription": "The versatile liquidity marketplace for NFTs, Memecoin, RWA and more",
+    "logo": "https://pbs.twimg.com/profile_images/1955857391310004224/H5_a-r1H_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1316772906592923648/1759460918/1080x360",
+    "twitter": "https://x.com/PaddleFi",
+    "website": "https://www.paddlefi.com/"
+  },
+  {
+    "name": "PARSA",
+    "category": "DeFi, BetFi",
+    "isNative": false,
+    "shortDescription": "The prediction market for prices",
+    "logo": "https://pbs.twimg.com/profile_images/1786154638481195008/0ve1mWj6_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1771269226512240640/1744579550/1080x360",
+    "twitter": "https://x.com/TradeOnParsa",
+    "website": "https://parsa.finance/"
+  },
+  {
+    "name": "PARTICLE NETWORK",
+    "category": "Infrastructure",
+    "isNative": false,
+    "shortDescription": "The Modular L1 Powering Chain Abstraction",
+    "logo": "https://pbs.twimg.com/profile_images/1623919818108997633/o2JfMaqi_400x400.png",
+    "banner": "https://pbs.twimg.com/profile_banners/1502187805463638018/1754454193/1080x360",
+    "twitter": "https://x.com/ParticleNtwrk",
+    "website": "https://particle.network/"
+  },
+  {
+    "name": "PLAY RUMBLE",
+    "category": "GameFi",
+    "isNative": true,
+    "shortDescription": "A Borderless P2E Gaming Ecosystem",
+    "logo": "https://pbs.twimg.com/profile_images/1977654038163251201/8jhqmkRv_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1852899707846053888/1750263016/1080x360",
+    "twitter": "https://x.com/PlayRumble_",
+    "website": "https://linktr.ee/playrumble_"
+  },
+  {
+    "name": "POLAR AI",
+    "category": "DeFi",
+    "isNative": true,
+    "shortDescription": "AI-driven project within the Berachain ecosystem",
+    "logo": "https://pbs.twimg.com/profile_images/1955193364610945025/jWHqFJzP_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1892161402560790528/1754989399/1080x360",
+    "twitter": "https://x.com/PolarBerAI",
+    "website": "https://polarberai.xyz/"
+  },
+  {
+    "name": "PRIVY",
+    "category": "Wallet",
+    "isNative": false,
+    "shortDescription": "Onboard all of your users to web3",
+    "logo": "https://pbs.twimg.com/profile_images/1902346061005676544/e6WybE_v_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1468690939807821826/1742390283/1500x500",
+    "twitter": "https://twitter.com/privy_io",
+    "website": "https://www.privy.io/"
+  },
+  {
+    "name": "PYTH NETWORK",
+    "category": "Infrastructure",
+    "isNative": false,
+    "shortDescription": "The largest first-party oracle network",
+    "logo": "https://pbs.twimg.com/profile_images/1948404937857122304/XPBCFnR5_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1376553581508059144/1753370912/1080x360",
+    "twitter": "https://x.com/PythNetwork",
+    "website": "https://www.pyth.network/"
+  },
+  {
+    "name": "QUICKNODE",
+    "category": "Infrastructure",
+    "isNative": false,
+    "shortDescription": "Powering Web3 with industry-leading blockchain infrastructure",
+    "logo": "https://pbs.twimg.com/profile_images/1988435453343662080/A-L9EDv9_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/878924739812761600/1762969139/1080x360",
+    "twitter": "https://x.com/quicknode",
+    "website": "https://www.quicknode.com/"
+  },
+  {
+    "name": "QUOD IN ALTUM",
+    "category": "DeFi, Memecoin",
+    "isNative": true,
+    "shortDescription": "A buyback and burn memecoin",
+    "logo": "https://pbs.twimg.com/profile_images/1920122714548744192/SxhMeYgn_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1920122402622853120/1747487671/1080x360",
+    "twitter": "https://x.com/quodinaltum",
+    "website": "https://panda.kodiak.finance/trade/0x41fc191d145307667ea3e50f244b78de9cddf53f"
+  },
+  {
+    "name": "RAMEN FINANCE",
+    "category": "Launchpad",
+    "isNative": true,
+    "shortDescription": "Launchpad",
+    "logo": "https://pbs.twimg.com/profile_images/1877431228409982981/ZCY6CT24_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1675151573985660929/1704108487/1500x500",
+    "twitter": "https://twitter.com/ramen_finance",
+    "website": "https://ramen.finance/"
+  },
+  {
+    "name": "ROBIN",
+    "category": "DeFi",
+    "isNative": true,
+    "shortDescription": "Yield-bearing prediction markets on Berachain.",
+    "logo": "https://pbs.twimg.com/profile_images/1965796910746230784/ldHs2TpT_400x400.png",
+    "banner": "https://pbs.twimg.com/profile_banners/1856981572475371521/1757517482/1080x360",
+    "twitter": "https://x.com/robinmarketsxyz",
+    "website": "https://robin.markets/"
+  },
+  {
+    "name": "ROUTER PROTOCOL",
+    "category": "Bridge",
+    "isNative": false,
+    "shortDescription": "Bridge in Web3",
+    "logo": "https://pbs.twimg.com/profile_images/1886766421855928320/csOM_xcm_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1343584217062502400/1753195183/1080x360",
+    "twitter": "https://twitter.com/routerprotocol",
+    "website": "https://nitro.routerprotocol.com/"
+  },
+  {
+    "name": "ROUTESCAN",
+    "category": "Infrastructure",
+    "isNative": false,
+    "shortDescription": "The Block Explorer Platform",
+    "logo": "https://pbs.twimg.com/profile_images/1929071043076923392/5VDv4T5v_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1686733020705787904/1748750850/1080x360",
+    "twitter": "https://twitter.com/routescan_io",
+    "website": "https://routescan.io/"
+  },
+  {
+    "name": "ROYCO",
+    "category": "DeFi",
+    "isNative": false,
+    "shortDescription": "The Incentivized Action Market (IAM) Protocol.,Royco Protocol allows anyone to create a market for any onchain action‚Äìwe call these markets Incentivized Action Markets (IAMs). In IAMs",
+    "logo": "https://pbs.twimg.com/profile_images/1776349955793534976/g7shrXy6_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1776310548982120449/1738605853/1500x500",
+    "twitter": "https://x.com/roycoprotocol",
+    "website": "https://app.royco.org/"
+  },
+  {
+    "name": "RUBIC",
+    "category": "Bridge, DeFi",
+    "isNative": false,
+    "shortDescription": "Rubic's Best Rate Finder tool",
+    "logo": "https://pbs.twimg.com/profile_images/1965705110043967488/TUJOs4nC_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1304003606266474496/1760006076/1080x360",
+    "twitter": "https://twitter.com/CryptoRubic",
+    "website": "https://rubic.exchange/"
+  },
+  {
+    "name": "SEMANTIC LAYER",
+    "category": "Infrastructure, NFT",
+    "isNative": false,
+    "shortDescription": "Make dApps Great Again",
+    "logo": "https://pbs.twimg.com/profile_images/1833370443484655616/GI2eMoMY_400x400.png",
+    "banner": "https://pbs.twimg.com/profile_banners/1709390525756055552/1702681632/1500x500",
+    "twitter": "https://x.com/semanticlayer",
+    "website": "https://www.semanticlayer.io/"
+  },
+  {
+    "name": "SHIELDIFY",
+    "category": "Infrastructure",
+    "isNative": false,
+    "shortDescription": "Specializes in blockchain security audits",
+    "logo": "https://pbs.twimg.com/profile_images/1773392213382180869/oVXc17gJ_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1667450901114617857/1705751339/1500x500",
+    "twitter": "https://x.com/ShieldifySec",
+    "website": "https://www.shieldify.org/"
+  },
+  {
+    "name": "SMILEE FINANCE",
+    "category": "DeFi, Farm",
+    "isNative": true,
+    "shortDescription": "Boost your yield by minting wgBERA and leveraging Proof of Liquidity",
+    "logo": "https://pbs.twimg.com/profile_images/1978017325338009600/vzw6gLEQ_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1584535940852318208/1760440308/1080x360",
+    "twitter": "https://twitter.com/SmileeFinance",
+    "website": "https://smilee.finance/"
+  },
+  {
+    "name": "SOLV PROTOCOL",
+    "category": "DeFi",
+    "isNative": false,
+    "shortDescription": "Not Native",
+    "logo": "https://pbs.twimg.com/profile_images/1971489442235092992/njLUqgMN_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1370632070926536704/1754906229/1080x360",
+    "twitter": "https://x.com/SolvProtocol",
+    "website": "https://solv.finance/"
+  },
+  {
+    "name": "STARGATE",
+    "category": "Bridge",
+    "isNative": false,
+    "shortDescription": "The fastest way to move money onchain",
+    "logo": "https://pbs.twimg.com/profile_images/1928147506699145217/n7-KQGNJ_400x400.png",
+    "banner": "https://pbs.twimg.com/profile_banners/1407791976909393923/1749725805/1080x360",
+    "twitter": "https://x.com/StargateFinance",
+    "website": "https://stargate.finance/"
+  },
+  {
+    "name": "STEADY TEDDYS",
+    "category": "NFT",
+    "isNative": true,
+    "shortDescription": "NFT Project",
+    "logo": "https://pbs.twimg.com/profile_images/1826066368170749952/V19QbQAA_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1262841221803802624/1724206531/1500x500",
+    "twitter": "https://x.com/steadyteddys",
+    "website": "https://www.steadyteddys.com/"
+  },
+  {
+    "name": "THE BULLAS",
+    "category": "NFT",
+    "isNative": true,
+    "shortDescription": "The Bullas Of Berachain",
+    "logo": "https://pbs.twimg.com/profile_images/1781324249845682179/1a7AnO-w_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1777365074295840768/1739129196/1080x360",
+    "twitter": "https://twitter.com/TheBullas_",
+    "website": "https://www.bullas.xyz/"
+  },
+  {
+    "name": "THE HONEYCAST",
+    "category": "Community",
+    "isNative": true,
+    "shortDescription": "The official podcast on Berachain",
+    "logo": "https://pbs.twimg.com/profile_images/1932576189677490176/hQInWxI8_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1476058854102163457/1728020499/1500x500",
+    "twitter": "https://twitter.com/The_HoneyCast",
+    "website": "https://linktr.ee/TheHoneyCast"
+  },
+  {
+    "name": "TWIN FINANCE",
+    "category": "DeFi, RWA",
+    "isNative": false,
+    "shortDescription": "Real world assets on chain",
+    "logo": "https://pbs.twimg.com/profile_images/1903852261932957696/52_m5ioh_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1775408194623262720/1742748795/1500x500",
+    "twitter": "https://x.com/TwinFinance",
+    "website": "https://app.twinfinance.io/"
+  },
+  {
+    "name": "ULTRAVIOLET",
+    "category": "DeFi",
+    "isNative": true,
+    "shortDescription": "The future of money, beyond the visible.",
+    "logo": "https://pbs.twimg.com/profile_images/1925118643425210368/mCoFiJdy_400x400.png",
+    "banner": "https://pbs.twimg.com/profile_banners/1925116677567414272/1749894852/1500x500",
+    "twitter": "https://x.com/UV_Money",
+    "website": "https://www.uvmoney.xyz/mint"
+  },
+  {
+    "name": "URSADOM LABS",
+    "category": "Infrastructure",
+    "isNative": true,
+    "shortDescription": "Incubator / Investment",
+    "logo": "https://pbs.twimg.com/profile_images/1951398979666669568/QrCxnsEU_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1523699545082839042/1661351785/1500x500",
+    "twitter": "https://twitter.com/ursadomlabs",
+    "website": "https://ursadom.io/"
+  },
+  {
+    "name": "VASE FINANCE",
+    "category": "DeFi, Infrastructure",
+    "isNative": true,
+    "shortDescription": "A POL powered Liquid Staking Protocol",
+    "logo": "https://pbs.twimg.com/profile_images/1828910899479879680/pzFi6oUU_400x400.png",
+    "banner": "https://pbs.twimg.com/profile_banners/1768015667058364416/1733916187/1500x500",
+    "twitter": "https://x.com/VaseFinance",
+    "website": "https://vased.fi/"
+  },
+  {
+    "name": "WALLETCONNECT",
+    "category": "Wallet",
+    "isNative": false,
+    "shortDescription": "The tools to build user experiences that make digital ownership effortless, intuitive, and secure.",
+    "logo": "https://pbs.twimg.com/profile_images/1947703299399954433/2zltztgU_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/977233881668648960/1741880144/1080x360",
+    "twitter": "https://twitter.com/WalletConnect",
+    "website": "https://walletconnect.com/"
+  },
+  {
+    "name": "WASABEE",
+    "category": "DeFi",
+    "isNative": true,
+    "shortDescription": "Seamlessly onboarding meme traders",
+    "logo": "https://pbs.twimg.com/profile_images/1864871735222505474/Xqa9og-s_400x400.png",
+    "banner": "https://pbs.twimg.com/profile_banners/1845646056471859200/1733455045/1500x500",
+    "twitter": "https://x.com/WasabeeFi",
+    "website": "https://wasabee.xyz/"
+  },
+  {
+    "name": "WASSIEONBERA",
+    "category": "NFT",
+    "isNative": false,
+    "shortDescription": "8,000 fully-animated, fully-rigged 3D Bera NFTs",
+    "logo": "https://pbs.twimg.com/profile_images/1902764281038508032/qeperzZW_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1471594374282854404/1738708719/1500x500",
+    "twitter": "https://x.com/wassieonbera",
+    "website": "https://linktr.ee/wassielinks"
+  },
+  {
+    "name": "WINNIE",
+    "category": "Wallet",
+    "isNative": true,
+    "shortDescription": "Supercharging Berachain DeFi",
+    "logo": "https://pbs.twimg.com/profile_images/1958837433086140416/h7ncLlLV_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1080494555819057152/1763066824/1080x360",
+    "twitter": "https://x.com/winnieswap",
+    "website": "https://winnie.app/"
+  },
+  {
+    "name": "YEET",
+    "category": "BetFi, GameFi",
+    "isNative": true,
+    "shortDescription": "Block this page immediately",
+    "logo": "https://pbs.twimg.com/profile_images/1738141641007931392/cIAiW4Sw_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1694667659126697984/1703240289/1500x500",
+    "twitter": "https://twitter.com/eatsleepyeet",
+    "website": "https://yeetit.xyz/"
+  },
+  {
+    "name": "ZEROLEND",
+    "category": "DeFi, Lending",
+    "isNative": false,
+    "shortDescription": "The leading lending market on L2s",
+    "logo": "https://pbs.twimg.com/profile_images/1742465326934327296/dhKg5pH3_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1680649628004352001/1704314137/1500x500",
+    "twitter": "https://x.com/zerolendxyz",
+    "website": "https://zerolend.xyz/"
+  }
+]
