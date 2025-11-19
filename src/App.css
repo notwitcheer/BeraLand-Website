@@ -267,6 +267,17 @@ body {
     padding: 40px 0;
   }
 
+  .header-pfp {
+    width: 35px;
+    height: 35px;
+    border-width: 2px;
+  }
+
+  .header-profile-link {
+    top: 15px;
+    right: 15px;
+  }
+
   .filters {
     flex-direction: column;
   }
@@ -292,6 +303,17 @@ body {
 
   .title {
     font-size: 28px;
+  }
+
+  .header-pfp {
+    width: 30px;
+    height: 30px;
+    border-width: 2px;
+  }
+
+  .header-profile-link {
+    top: 10px;
+    right: 10px;
   }
 
   .filters-section {
