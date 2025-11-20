@@ -1,5 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import ProjectCard from './components/ProjectCard';
+import HaikuWidgetWrapper from './components/HaikuWidgetWrapper';
 import projectsData from './projects.json';
 import witcheerPfp from './witcheer-pfp.png';
 import './App.css';
@@ -9,6 +10,7 @@ function App() {
   const [searchTerm, setSearchTerm] = useState('');
   const [categoryFilter, setCategoryFilter] = useState('all');
   const [nativeFilter, setNativeFilter] = useState('all');
+  const [showHaikuWidget, setShowHaikuWidget] = useState(false);
 
   const categories = useMemo(() => {
     const cats = new Set();
@@ -57,6 +59,12 @@ function App() {
           <p className="subtitle">
             Explore {projectsData.length} projects building on Berachain
           </p>
+          <button
+            onClick={() => setShowHaikuWidget(true)}
+            className="haiku-trade-button"
+          >
+            🔄 Trade on Haiku
+          </button>
         </div>
       </header>
 
@@ -160,6 +168,11 @@ function App() {
           </p>
         </div>
       </footer>
+
+      {/* Haiku Widget Modal */}
+      {showHaikuWidget && (
+        <HaikuWidgetWrapper onClose={() => setShowHaikuWidget(false)} />
+      )}
     </div>
   );
 }
