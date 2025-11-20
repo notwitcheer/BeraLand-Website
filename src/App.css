@@ -11,6 +11,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: #f9fafb;
+  background-image: radial-gradient(circle, #e5e7eb 1px, transparent 1px);
+  background-size: 20px 20px;
   color: #111827;
 }
 
@@ -235,6 +237,17 @@ body {
 }
 
 .footer-links a:hover {
+  color: #3a2a1a;
+}
+
+.footer-link {
+  color: #5a4a3a;
+  text-decoration: none;
+  font-weight: 700;
+  transition: color 0.2s ease;
+}
+
+.footer-link:hover {
   color: #3a2a1a;
 }
 

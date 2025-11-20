@@ -149,7 +149,9 @@ function App() {
       {/* Footer */}
       <footer className="footer">
         <div className="container">
-          <p>Built with 🐻 for the Berachain community</p>
+          <p>Built by <a href="https://x.com/Bera_Land" target="_blank" rel="noopener noreferrer" className="footer-link">
+              @Bera_Land
+            </a> for the Berachain community</p>
           <p className="footer-links">
             Created by <a href="https://x.com/witcheer" target="_blank" rel="noopener noreferrer" className="footer-creator">
               <img src={witcheerPfp} alt="Witcheer" className="footer-pfp" />

@@ -883,7 +883,7 @@
     "name": "ROYCO",
     "category": "DeFi",
     "isNative": false,
-    "shortDescription": "The Incentivized Action Market (IAM) Protocol.,Royco Protocol allows anyone to create a market for any onchain action‚Äìwe call these markets Incentivized Action Markets (IAMs). In IAMs",
+    "shortDescription": "The Incentivized Action Market (IAM) Protocol.",
     "logo": "https://pbs.twimg.com/profile_images/1776349955793534976/g7shrXy6_400x400.jpg",
     "banner": "https://pbs.twimg.com/profile_banners/1776310548982120449/1738605853/1500x500",
     "twitter": "https://x.com/roycoprotocol",
@@ -1058,6 +1058,16 @@
     "banner": "https://pbs.twimg.com/profile_banners/1080494555819057152/1763066824/1080x360",
     "twitter": "https://x.com/winnieswap",
     "website": "https://winnie.app/"
+  },
+  {
+    "name": "WIZZWOODS",
+    "category": "GameFi",
+    "isNative": false,
+    "shortDescription": "1st pixel farm game integrates interchain capabilities with a SocialFi twist",
+    "logo": "https://pbs.twimg.com/profile_images/1839851139623464960/VeASICLJ_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1751504118680829952/1727490143/1080x360",
+    "twitter": "https://x.com/WizzwoodsGame",
+    "website": "https://www.wizzwoods.com/"
   },
   {
     "name": "YEET",
