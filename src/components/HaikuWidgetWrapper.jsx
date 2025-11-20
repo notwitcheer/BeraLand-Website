@@ -3,16 +3,10 @@ import { HaikuWidget } from '@haiku-trade/widget';
 import './HaikuWidgetWrapper.css';
 
 const HaikuWidgetWrapper = ({ onClose }) => {
-  // Configuration du widget Haiku
   const widgetConfig = {
     theme: {
-      mode: 'auto', // 'light', 'dark', ou 'auto'
+      mode: 'auto',
     },
-    // Vous pouvez ajouter d'autres options ici selon vos besoins
-    // multiInput: true,
-    // multiOutput: true,
-    // preselectedInputs: {},
-    // preselectedOutputs: {},
   };
 
   return (
