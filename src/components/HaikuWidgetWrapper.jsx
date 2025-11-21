@@ -10,13 +10,13 @@ const HaikuWidgetWrapper = ({ onClose }) => {
   };
 
   return (
-    <div className="haiku-widget-overlay">
-      <div className="haiku-widget-container">
+    <div className="haiku-widget-overlay" onClick={onClose}>
+      <div className="haiku-widget-container" onClick={(e) => e.stopPropagation()}>
         <button className="close-button" onClick={onClose}>
           ✕
         </button>
         <HaikuWidget
-          widgetKey={import.meta.env.VITE_HAIKU_WIDGET_KEY || "YOUR_WIDGET_KEY"}
+          widgetKey={import.meta.env.VITE_HAIKU_WIDGET_KEY}
           config={widgetConfig}
         />
       </div>
