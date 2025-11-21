@@ -650,6 +650,16 @@
     "website": "https://limitlessfi.xyz/"
   },
   {
+    "name": "LIQUID ROYALTY",
+    "category": "DeFi, RWA",
+    "isNative": false,
+    "shortDescription": "Earn monthly stablecoins with Liquid Royalties",
+    "logo": "https://pbs.twimg.com/profile_images/1978341200735207424/G2Y5Fjx2_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1964929720598118401/1760508331/1080x360",
+    "twitter": "https://x.com/liquidroyaltyX",
+    "website": "https://www.liquidroyalty.com/"
+  },
+  {
     "name": "LOMBARD",
     "category": "DeFi, LST",
     "isNative": false,
@@ -958,6 +968,16 @@
     "banner": "https://pbs.twimg.com/profile_banners/1262841221803802624/1724206531/1500x500",
     "twitter": "https://x.com/steadyteddys",
     "website": "https://www.steadyteddys.com/"
+  },
+  {
+    "name": "SUKUK",
+    "category": "DeFi",
+    "isNative": true,
+    "shortDescription": "On-chain marketplace connecting DeFi directly with profitable real-world businesses",
+    "logo": "https://pbs.twimg.com/profile_images/1911549213751558144/FTd4I8t8_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1840451414784638976/1744583824/1080x360",
+    "twitter": "https://x.com/sukukfi",
+    "website": "http://sukuk.fi/"
   },
   {
     "name": "THE BULLAS",
