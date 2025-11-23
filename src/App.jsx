@@ -5,6 +5,7 @@ import projectsData from './projects.json';
 import witcheerPfp from './witcheer-pfp.png';
 import './App.css';
 
+const ENABLE_HAIKU_WIDGET = false;
 
 function App() {
   const [searchTerm, setSearchTerm] = useState('');
@@ -59,12 +60,14 @@ function App() {
           <p className="subtitle">
             Explore {projectsData.length} projects building on Berachain
           </p>
-          <button
-            onClick={() => setShowHaikuWidget(true)}
-            className="haiku-trade-button"
-          >
-            🔄 Trade on Haiku
-          </button>
+          {ENABLE_HAIKU_WIDGET && (
+            <button
+              onClick={() => setShowHaikuWidget(true)}
+              className="haiku-trade-button"
+            >
+              🔄 Trade on Haiku
+            </button>
+          )}
         </div>
       </header>
 
@@ -170,7 +173,7 @@ function App() {
       </footer>
 
       {/* Haiku Widget Modal */}
-      {showHaikuWidget && (
+      {ENABLE_HAIKU_WIDGET && showHaikuWidget && (
         <HaikuWidgetWrapper onClose={() => setShowHaikuWidget(false)} />
       )}
     </div>
