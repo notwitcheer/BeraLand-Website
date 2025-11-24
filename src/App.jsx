@@ -1,12 +1,14 @@
 import React, { useState, useMemo } from 'react';
 import ProjectCard from './components/ProjectCard';
 import HaikuWidgetWrapper from './components/HaikuWidgetWrapper';
+import WalletConnect from './components/WalletConnect';
 import projectsData from './projects.json';
 import witcheerPfp from './witcheer-pfp.png';
 import './App.css';
 
 
-const ENABLE_HAIKU_WIDGET = true;
+const ENABLE_HAIKU_WIDGET = false;
+const ENABLE_WALLET_CONNECT = false;
 
 function App() {
   const [searchTerm, setSearchTerm] = useState('');
@@ -61,14 +63,17 @@ function App() {
           <p className="subtitle">
             Explore {projectsData.length} projects building on Berachain
           </p>
-          {ENABLE_HAIKU_WIDGET && (
-            <button
-              onClick={() => setShowHaikuWidget(true)}
-              className="haiku-trade-button"
-            >
-              🔄 Trade on Haiku
-            </button>
-          )}
+          <div className="header-actions">
+            {ENABLE_WALLET_CONNECT && <WalletConnect />}
+            {ENABLE_HAIKU_WIDGET && (
+              <button
+                onClick={() => setShowHaikuWidget(true)}
+                className="haiku-trade-button"
+              >
+                🔄 Trade on Haiku
+              </button>
+            )}
+          </div>
         </div>
       </header>
 
