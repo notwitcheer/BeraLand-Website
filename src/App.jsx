@@ -5,7 +5,7 @@ import projectsData from './projects.json';
 import witcheerPfp from './witcheer-pfp.png';
 import './App.css';
 
-const ENABLE_HAIKU_WIDGET = false;
+const ENABLE_HAIKU_WIDGET = true;
 
 function App() {
   const [searchTerm, setSearchTerm] = useState('');
