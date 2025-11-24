@@ -5,6 +5,8 @@ import projectsData from './projects.json';
 import witcheerPfp from './witcheer-pfp.png';
 import './App.css';
 
+
+// Boolean
 const ENABLE_HAIKU_WIDGET = true;
 
 function App() {
