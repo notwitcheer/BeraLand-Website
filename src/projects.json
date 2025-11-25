@@ -220,6 +220,16 @@
     "website": "https://www.beratone.game/en-US"
   },
   {
+    "name": "BERATOWN",
+    "category": "GameFi, NFT, SocialFi",
+    "isNative": true,
+    "shortDescription": "Consumer App, everything berachain in one place",
+    "logo": "https://pbs.twimg.com/profile_images/1898421964815110144/yg4Px1RV_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1863218571033088000/1733467084/1080x360",
+    "twitter": "https://x.com/0xberatown",
+    "website": "https://beratown.dapdap.net/"
+  },
+  {
     "name": "BLOCK CHAIN",
     "category": "Infrastructure, DeFi, L2",
     "isNative": true,
@@ -248,16 +258,6 @@
     "banner": "https://pbs.twimg.com/profile_banners/1887653566178897920/1738960640/1080x360",
     "twitter": "https://x.com/BongaBera",
     "website": "https://panda.kodiak.finance/trade/0x11909a68ae60903c96c35c059fcf262e54df29d5"
-  },
-  {
-    "name": "BRAHMA",
-    "category": "Infrastructure, AI",
-    "isNative": true,
-    "shortDescription": "The infrastructure for AI agents and users to execute onchain autonomously and securely.",
-    "logo": "https://pbs.twimg.com/profile_images/1732456585652240384/u1-fAC6J_400x400.jpg",
-    "banner": "https://pbs.twimg.com/profile_banners/1420735697556754436/1752843669/1080x360",
-    "twitter": "https://x.com/BrahmaFi",
-    "website": "https://brahma.fi/"
   },
   {
     "name": "BRAINEDBERAS",
@@ -368,16 +368,6 @@
     "banner": "https://pbs.twimg.com/profile_banners/1749133553453965312/1746645960/1080x360",
     "twitter": "https://x.com/D2_Finance",
     "website": "https://d2.finance/"
-  },
-  {
-    "name": "DAPDAP",
-    "category": "DeFi, Infrastructure",
-    "isNative": false,
-    "shortDescription": "The Next-gen DeFi Consumer App Layer for Ethereum L2s and EVMs",
-    "logo": "https://pbs.twimg.com/profile_images/1912884353165623296/n0x3-7eH_400x400.jpg",
-    "banner": "https://pbs.twimg.com/profile_banners/1698550610445103106/1724451747/1500x500",
-    "twitter": "https://x.com/DapDapMeUp",
-    "website": "https://beratown.dapdap.net/"
   },
   {
     "name": "DEFINED",
