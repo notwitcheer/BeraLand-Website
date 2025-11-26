@@ -561,7 +561,7 @@
   },
   {
     "name": "JIKO",
-    "category": "Wallet",
+    "category": "Defi, GameFi",
     "isNative": true,
     "shortDescription": "A yield optimizer powering a PvP idle card game maximizing yields via PoL",
     "logo": "https://pbs.twimg.com/profile_images/1921879870856204288/CxeXIsDk_400x400.jpg",
@@ -688,6 +688,16 @@
     "banner": "https://pbs.twimg.com/profile_banners/1704626445895536640/1762005239/1080x360",
     "twitter": "https://twitter.com/miberamaker333",
     "website": "https://mibera.0xhoneyjar.xyz/"
+  },
+  {
+    "name": "MITEDDY",
+    "category": "NFT",
+    "isNative": true,
+    "shortDescription": "Nft collection",
+    "logo": "https://pbs.twimg.com/profile_images/1973867536883052544/aXnbARs4_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1941183212237021184/1759490080/1080x360",
+    "twitter": "https://x.com/miteddy21e8",
+    "website": "https://miteddy21e8.com/"
   },
   {
     "name": "MOVEMENT",
