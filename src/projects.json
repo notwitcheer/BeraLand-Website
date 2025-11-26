@@ -270,6 +270,16 @@
     "website": "https://www.brainedberas.com/"
   },
   {
+    "name": "BROWNFI",
+    "category": "DeFi, Infrastructure",
+    "isNative": true,
+    "shortDescription": "Innovative oracle-based AMM",
+    "logo": "https://pbs.twimg.com/profile_images/1746843422454087680/Q58dTyR7_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1746841619045982208/1734704410/1080x360",
+    "twitter": "https://x.com/brownfiamm",
+    "website": "https://brownfi.io/"
+  },
+  {
     "name": "BUILD A BERA",
     "category": "Community",
     "isNative": true,
@@ -908,6 +918,16 @@
     "banner": "https://pbs.twimg.com/profile_banners/1304003606266474496/1760006076/1080x360",
     "twitter": "https://twitter.com/CryptoRubic",
     "website": "https://rubic.exchange/"
+  },
+  {
+    "name": "SCHIZO SYBILS",
+    "category": "NFT",
+    "isNative": false,
+    "shortDescription": "NFT Collection",
+    "logo": "https://pbs.twimg.com/profile_images/1878104092628647936/fjvaIsZu_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1877741906169597952/1743179525/1080x360",
+    "twitter": "https://x.com/schizosybils",
+    "website": "https://www.schizosybils.com/"
   },
   {
     "name": "SEMANTIC LAYER",
