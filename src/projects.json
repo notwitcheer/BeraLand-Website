@@ -220,6 +220,16 @@
     "website": "https://www.beratone.game/en-US"
   },
   {
+    "name": "BERATARDIOS",
+    "category": "NFT",
+    "isNative": true,
+    "shortDescription": "The chain dreamed in code, and the Beratardios answered",
+    "logo": "https://pbs.twimg.com/profile_images/1983754625066135557/cXkMWGok_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1877766033299439616/1761801544/1500x500",
+    "twitter": "https://x.com/BeratardiosNFT",
+    "website": "https://www.beratardios.online/"
+  },
+  {
     "name": "BERATOWN",
     "category": "GameFi, SocialFi",
     "isNative": true,
@@ -268,6 +278,16 @@
     "banner": "https://pbs.twimg.com/profile_banners/1840626917789057024/1735312513/1500x500",
     "twitter": "https://x.com/bigbrainedberas",
     "website": "https://www.brainedberas.com/"
+  },
+  {
+    "name": "BREADFRENDZ",
+    "category": "NFT",
+    "isNative": true,
+    "shortDescription": "Greatest Bread PFP collection on Berachain",
+    "logo": "https://pbs.twimg.com/profile_images/1988452322419392512/bgbsvuhp_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1901172327683153920/1742111419/1500x500",
+    "twitter": "https://x.com/breadfrendz",
+    "website": ""
   },
   {
     "name": "BROWNFI",

@@ -1,0 +1,10 @@
+Contact: https://x.com/Bera_Land
+Contact: https://x.com/witcheer
+Expires: 2026-12-31T23:59:59.000Z
+Preferred-Languages: en, fr
+Canonical: https://beraland.net/.well-known/security.txt
+Policy: https://beraland.net
+Acknowledgments: https://beraland.net
+
+# BeraLand - Berachain Ecosystem Directory
+# If you discover a security issue, please contact us on Twitter/X
