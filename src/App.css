@@ -184,6 +184,36 @@ body {
   box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
 }
 
+.dune-dashboard-button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 20px;
+  background: #5a4a3a;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.dune-dashboard-button:hover {
+  background: #3a2a1a;
+  transform: translateY(-1px);
+}
+
+.dune-dashboard-button:active {
+  transform: translateY(0);
+}
+
+.dune-dashboard-button svg {
+  flex-shrink: 0;
+}
+
 .results-count {
   color: #6b7280;
   font-size: 14px;
@@ -345,6 +375,11 @@ body {
 
   .filter-select {
     width: 100%;
+  }
+
+  .dune-dashboard-button {
+    width: 100%;
+    justify-content: center;
   }
 
   .projects-grid {

@@ -127,6 +127,20 @@ function App() {
               <option value="native">Berachain Native</option>
               <option value="non-native">Multi-chain</option>
             </select>
+
+            {/* Dune Dashboard Button */}
+            <a
+              href="https://dune.com/witcheer/berachain"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="dune-dashboard-button"
+            >
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M7 10h10v1H7v-1zm0 3h10v1H7v-1zm0 3h10v1H7v-1z"/>
+                <path d="M3 3h18v18H3V3zm2 2v14h14V5H5z"/>
+              </svg>
+              Discover Berachain Metrics
+            </a>
           </div>
 
           {/* Results Count */}
