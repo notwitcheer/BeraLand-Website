@@ -22,12 +22,16 @@ const ProjectCard = ({ project }) => {
       <div className="card-content">
         <div className="project-header">
           {project.logo ? (
-            <img 
-              src={project.logo} 
+            <img
+              src={project.logo}
               alt={`${project.name} logo`}
               className="project-logo"
               onError={(e) => {
-                e.target.src = 'https://via.placeholder.com/80x80?text=?';
+                e.target.style.display = 'none';
+                const placeholder = document.createElement('div');
+                placeholder.className = 'project-logo-placeholder';
+                placeholder.textContent = project.name.charAt(0);
+                e.target.parentNode.insertBefore(placeholder, e.target);
               }}
             />
           ) : (

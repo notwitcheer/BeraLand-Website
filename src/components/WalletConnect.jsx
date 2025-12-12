@@ -1,6 +1,12 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { useAccount, useConnect, useDisconnect } from 'wagmi';
 import './WalletConnect.css';
+
+const walletLogos = {
+  'MetaMask': 'https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg',
+  'Rabby Wallet': 'https://rabby.io/assets/images/logo-128.png',
+  'Coinbase Wallet': 'https://avatars.githubusercontent.com/u/18060234?s=200&v=4',
+};
 
 const WalletConnect = () => {
   const { address, isConnected } = useAccount();
@@ -11,6 +17,15 @@ const WalletConnect = () => {
   const handleConnect = (connector) => {
     connect({ connector });
     setShowModal(false);
+  };
+
+  const getWalletLogo = (connectorName) => {
+    for (const [name, logo] of Object.entries(walletLogos)) {
+      if (connectorName.toLowerCase().includes(name.toLowerCase())) {
+        return logo;
+      }
+    }
+    return null;
   };
 
   if (isConnected) {
@@ -33,8 +48,14 @@ const WalletConnect = () => {
       </button>
 
       {showModal && (
-        <div className="wallet-modal-overlay" onClick={() => setShowModal(false)}>
-          <div className="wallet-modal" onClick={(e) => e.stopPropagation()}>
+        <div
+          className="wallet-modal-overlay"
+          onClick={() => setShowModal(false)}
+        >
+          <div
+            className="wallet-modal"
+            onClick={(e) => e.stopPropagation()}
+          >
             <div className="wallet-modal-header">
               <h3>Connect Wallet</h3>
               <button onClick={() => setShowModal(false)} className="modal-close">
@@ -42,15 +63,25 @@ const WalletConnect = () => {
               </button>
             </div>
             <div className="wallet-modal-content">
-              {connectors.map((connector) => (
-                <button
-                  key={connector.id}
-                  onClick={() => handleConnect(connector)}
-                  className="wallet-option"
-                >
-                  <span>{connector.name}</span>
-                </button>
-              ))}
+              {connectors.map((connector) => {
+                const logo = getWalletLogo(connector.name);
+                return (
+                  <button
+                    key={connector.uid}
+                    onClick={() => handleConnect(connector)}
+                    className="wallet-option"
+                  >
+                    {logo && (
+                      <img
+                        src={logo}
+                        alt={connector.name}
+                        className="wallet-logo"
+                      />
+                    )}
+                    <span>{connector.name}</span>
+                  </button>
+                );
+              })}
             </div>
           </div>
         </div>
