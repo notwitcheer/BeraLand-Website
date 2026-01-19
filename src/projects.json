@@ -890,6 +890,16 @@
     "website": "https://ramen.finance/"
   },
   {
+    "name": "RHEA FINANCE",
+    "category": "Infrastructure, DeFi",
+    "isNative": false,
+    "shortDescription": "The Chain-Abstracted Liquidity Solution",
+    "logo": "https://pbs.twimg.com/profile_images/2006721407095611392/tAHk12pW_400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1370594513857691648/1763982590/1500x500",
+    "twitter": "https://x.com/rhea_finance",
+    "website": "https://www.rhea.finance/"
+  },
+  {
     "name": "ROBIN",
     "category": "DeFi",
     "isNative": true,
