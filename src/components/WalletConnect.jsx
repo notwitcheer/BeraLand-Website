@@ -76,6 +76,7 @@ const WalletConnect = () => {
                         src={logo}
                         alt={connector.name}
                         className="wallet-logo"
+                        loading="lazy"
                       />
                     )}
                     <span>{connector.name}</span>

@@ -1,7 +1,9 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './ProjectCard.css';
 
 const ProjectCard = ({ project }) => {
+  const [imageError, setImageError] = useState(false);
+
   const getTwitterHandle = (twitterUrl) => {
     if (!twitterUrl) return null;
     const match = twitterUrl.match(/(?:twitter\.com|x\.com)\/([^/?]+)/);
@@ -21,18 +23,13 @@ const ProjectCard = ({ project }) => {
       {/* Overlay for readability */}
       <div className="card-content">
         <div className="project-header">
-          {project.logo ? (
+          {project.logo && !imageError ? (
             <img
               src={project.logo}
               alt={`${project.name} logo`}
               className="project-logo"
-              onError={(e) => {
-                e.target.style.display = 'none';
-                const placeholder = document.createElement('div');
-                placeholder.className = 'project-logo-placeholder';
-                placeholder.textContent = project.name.charAt(0);
-                e.target.parentNode.insertBefore(placeholder, e.target);
-              }}
+              loading="lazy"
+              onError={() => setImageError(true)}
             />
           ) : (
             <div className="project-logo-placeholder">

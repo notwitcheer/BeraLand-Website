@@ -4,11 +4,9 @@ import HaikuWidgetWrapper from './components/HaikuWidgetWrapper';
 import WalletConnect from './components/WalletConnect';
 import projectsData from './projects.json';
 import witcheerPfp from './witcheer-pfp.png';
+import { sanitizeInput, isValidSearchTerm } from './utils/sanitization';
+import { FEATURES } from './config/features';
 import './App.css';
-
-
-const ENABLE_HAIKU_WIDGET = false;
-const ENABLE_WALLET_CONNECT = false;
 
 function App() {
   const [searchTerm, setSearchTerm] = useState('');
@@ -30,9 +28,13 @@ function App() {
 
   const filteredProjects = useMemo(() => {
     return projectsData.filter(project => {
-      const matchesSearch = project.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-                           project.shortDescription?.toLowerCase().includes(searchTerm.toLowerCase()) ||
-                           project.category?.toLowerCase().includes(searchTerm.toLowerCase());
+      // Only filter if search term is valid
+      const sanitizedSearchTerm = searchTerm.toLowerCase();
+      const matchesSearch = !searchTerm || isValidSearchTerm(searchTerm) ? (
+        project.name.toLowerCase().includes(sanitizedSearchTerm) ||
+        project.shortDescription?.toLowerCase().includes(sanitizedSearchTerm) ||
+        project.category?.toLowerCase().includes(sanitizedSearchTerm)
+      ) : false;
       
       const matchesCategory = categoryFilter === 'all' || 
                              project.category?.toLowerCase().includes(categoryFilter.toLowerCase());
@@ -56,7 +58,7 @@ function App() {
           rel="noopener noreferrer"
           className="header-profile-link"
         >
-          <img src={witcheerPfp} alt="Witcheer" className="header-pfp" />
+          <img src={witcheerPfp} alt="Witcheer" className="header-pfp" loading="lazy" />
         </a>
         <div className="container">
           <h1 className="title">🐻 Berachain Ecosystem by BeraLand</h1>
@@ -64,8 +66,8 @@ function App() {
             Explore {projectsData.length} projects building on Berachain
           </p>
           <div className="header-actions">
-            {ENABLE_WALLET_CONNECT && <WalletConnect />}
-            {ENABLE_HAIKU_WIDGET && (
+            {FEATURES.WALLET_CONNECT && <WalletConnect />}
+            {FEATURES.HAIKU_WIDGET && (
               <button
                 onClick={() => setShowHaikuWidget(true)}
                 className="haiku-trade-button"
@@ -91,7 +93,7 @@ function App() {
                 type="text"
                 placeholder="Search projects..."
                 value={searchTerm}
-                onChange={(e) => setSearchTerm(e.target.value)}
+                onChange={(e) => setSearchTerm(sanitizeInput(e.target.value))}
                 className="search-input"
               />
               {searchTerm && (
@@ -155,8 +157,8 @@ function App() {
         <div className="container">
           {filteredProjects.length > 0 ? (
             <div className="projects-grid">
-              {filteredProjects.map((project, index) => (
-                <ProjectCard key={index} project={project} />
+              {filteredProjects.map((project) => (
+                <ProjectCard key={project.name} project={project} />
               ))}
             </div>
           ) : (
@@ -185,7 +187,7 @@ function App() {
             </a> for the Berachain community</p>
           <p className="footer-links">
             Created by <a href="https://x.com/witcheer" target="_blank" rel="noopener noreferrer" className="footer-creator">
-              <img src={witcheerPfp} alt="Witcheer" className="footer-pfp" />
+              <img src={witcheerPfp} alt="Witcheer" className="footer-pfp" loading="lazy" />
               @witcheer
             </a>
           </p>
@@ -193,7 +195,7 @@ function App() {
       </footer>
 
       {/* Haiku Widget Modal */}
-      {ENABLE_HAIKU_WIDGET && showHaikuWidget && (
+      {FEATURES.HAIKU_WIDGET && showHaikuWidget && (
         <HaikuWidgetWrapper onClose={() => setShowHaikuWidget(false)} />
       )}
     </div>
