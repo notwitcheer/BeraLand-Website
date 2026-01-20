@@ -840,6 +840,16 @@
     "website": "https://polarberai.xyz/"
   },
   {
+    "name": "PRIME VAULTS",
+    "category": "DeFi, Infrastructure",
+    "isNative": false,
+    "shortDescription": "Your On-Chain Smart Saving Accounts",
+    "logo": "https://pbs.twimg.com/profile_images/1968214457819205637/lNH30Bn__400x400.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1926847251382419456/1760954042/1500x500",
+    "twitter": "https://x.com/PrimeVaultsHQ",
+    "website": "https://primevaults.finance/"
+  },
+  {
     "name": "PRIVY",
     "category": "Wallet",
     "isNative": false,
